@@ -1,7 +1,7 @@
 # Consumer-Retail-Behavior-Analysis
 
 ## Project Overview
-This project analyzes consumer retail behavior using advanced statistical and machine learning techniques to identify key factors affecting sales, demographics, and promotional effectiveness.
+* This project analyzes consumer retail behavior using advanced statistical and machine learning techniques to identify key factors affecting sales, demographics, and promotional effectiveness.
 
 ## Dataset
 Uses a real-world retail transactions dataset with over 3,900 records.
